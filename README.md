@@ -1,3 +1,5 @@
+# Chạy trên Colab
+- Sử dụng file `OCR_v6_Gradio_components.ipynb`
 # Chạy cục bộ
 ## Cài đặt môi trường và thư viện cần thiết
 ### Cài đặt Python 3.8+
@@ -45,6 +47,3 @@ Sau khi tải ảnh lên và thiết lập đầy đủ thụ hưởng, click n�
 
 ## Tắt chương trình
 Sử dụng tổ hợp `Ctrl+C` trong CMD sau đó nhập lệnh `deactivate` để thoát khỏi `venv`
-
-# Chạy trên Colab
-- Sử dụng file `OCR_v6_Gradio_components.ipynb`
